@@ -121,7 +121,7 @@ footer {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
   background-color: cornsilk;
-  position: absolute;
+  position: fixed;
   bottom: 0;
   padding: 10px;
   width: 100%;
